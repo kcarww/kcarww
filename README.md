@@ -18,13 +18,8 @@ My name is Carlos, I've been working in programming for over 10 years and I'ven 
 
 
 <hr />
-<div style="width: 200px;">
-<a href="https://github.com/kcarww/github-readme-stats">
-  <img src="![kcarww's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcarww&show_icons=true&bg_color=00000000)" alt="Top Langs" />
-</a>
-</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+![Kcarww's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcarww&show_icons=true&bg_color=00000000)
 <!--
 **kcarww/kcarww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
