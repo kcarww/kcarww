@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Carlos, I've been working in programming for over 10 years and I'ven been teaching for teenager for other 6.
 
 <!--
 **kcarww/kcarww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
