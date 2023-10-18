@@ -12,6 +12,18 @@ My name is Carlos, I've been working in programming for over 10 years and I'ven 
 <a href="https://www.instagram.com/kcarw/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+
+<hr />
+✅ My skills
+
+
+<hr />
+<div style="width: 200px;">
+<a href="https://github.com/kcarww/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcarww&langs_count=8" alt="Top Langs" />
+</a>
+</div>
+
 <!--
 **kcarww/kcarww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
