@@ -1,6 +1,9 @@
 ### Hi there 👋
 My name is Carlos, I've been working in programming for over 10 years and I'ven been teaching for teenager for other 6.
 
+<a href="mailto:carlos.oe.cc@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 <!--
 **kcarww/kcarww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
