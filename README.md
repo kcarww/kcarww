@@ -15,7 +15,7 @@ My name is Carlos, I've been working in programming for over 10 years and I'ven 
 
 <hr />
 ✅ My skills
-
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
 <hr />
 
