@@ -35,7 +35,7 @@ My name is Carlos, I've been working in programming for over 10 years and I'ven 
 
 <hr />
 
-![Snake animation](https://github.com/kcarww/kcarww/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/kcarww/kcarww/blob/output/github-contribution-grid-snake.svg" />
 
 <hr />
 ![Kcarww's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcarww&show_icons=true&bg_color=00000000)
