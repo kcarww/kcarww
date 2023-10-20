@@ -33,8 +33,6 @@ My name is Carlos, I've been working in programming for over 10 years and I'ven 
 </span>
 
 
-<hr />
-![Kcarww's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcarww&show_icons=true&bg_color=00000000)
 <!--
 **kcarww/kcarww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
