@@ -37,9 +37,7 @@ My name is Carlos, I've been working in programming for over 10 years and I'ven 
 <a href="https://github.com/kcarww">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcarww&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=kcarww&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
 
 <!--
 **kcarww/kcarww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
