@@ -35,6 +35,9 @@ My name is Carlos, I've been working in programming for over 10 years and I'ven 
 <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" />  
 </span>
 <span>
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />  
+</span>
+<span>
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />  
 </span>
 <span>
