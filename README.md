@@ -34,6 +34,9 @@ My name is Carlos, I've been working in programming for over 10 years and I'ven 
 <span>
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />  
 </span>
+<span>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />  
+</span>
 
 <hr />
 <div>
