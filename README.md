@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi, my name is Carlos. I have been a Python developer for 4 years and I currently work with automation.
+I'm Carlos. I have been a Python developer for 4 years and I currently work with automation.
 
 <a href="mailto:carlos.oe.cc@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
